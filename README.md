@@ -2,7 +2,7 @@
 В файле sql.txt пример создания базы данных используя sqlite.
 Вроде на всех компах есть 'DB Browser for SQLite'.
 1. Запускаете
-2. Нажимаете New Database ![image](https://github.com/user-attachments/assets/fc4adc2a-da23-4c66-8332-9c26ff092da4)
+2. Нажимаете New Database ![image](https://github.com/user-attachments/assets/1a614b15-5877-4373-bff8-a0b838491834)
 3. Вводите имя файла пример: 'demo'.![image](https://github.com/user-attachments/assets/e776e685-291e-48c1-a76d-ebac95f8d762)
 4. Закрываете окошко ![image](https://github.com/user-attachments/assets/35926811-0ee1-4a52-9c4a-892c52d426d1)
 5. Нажимаете Execute SQL. ![image](https://github.com/user-attachments/assets/f83a6a0d-bc57-440c-a2f0-da6b61483f2c)
